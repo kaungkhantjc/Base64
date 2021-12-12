@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Base64</string>
+
+    <!-- Messages -->
+    <string name="msg_enter_text">Enter text</string>
+    <string name="msg_text_copied">Copied to clipboard.</string>
+
+    <!-- Buttons -->
+    <string name="btn_encode">Encode</string>
+    <string name="btn_decode">Decode</string>
+
+    <!-- Menus -->
+    <string name="menu_copy">Copy</string>
+    <string name="menu_paste">Paste</string>
+    <string name="menu_clear_all">Clear all</string>
+    <string name="menu_share_text">Share text</string>
+    <string name="menu_share_app">Share app</string>
+</resources>
