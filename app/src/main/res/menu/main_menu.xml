@@ -2,17 +2,17 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/menu_copy"
-        android:icon="@drawable/ic_baseline_content_copy_24"
+        android:icon="@drawable/baseline_content_copy_24"
         android:showAsAction="ifRoom"
         android:title="@string/menu_copy" />
     <item
         android:id="@+id/menu_paste"
-        android:icon="@drawable/ic_baseline_content_paste_24"
+        android:icon="@drawable/baseline_content_paste_24"
         android:showAsAction="ifRoom"
         android:title="@string/menu_paste" />
     <item
         android:id="@+id/menu_clear"
-        android:icon="@drawable/ic_baseline_delete_sweep_24"
+        android:icon="@drawable/baseline_delete_sweep_24"
         android:showAsAction="ifRoom"
         android:title="@string/menu_clear_all" />
     <item
