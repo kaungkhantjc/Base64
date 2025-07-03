@@ -1,0 +1,4 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Base64" parent="android:style/Theme.Holo" />
+</resources>
