@@ -1,6 +1,6 @@
 # Base64
 
-![Base64](https://github.com/kaungkhantjc/Base64/blob/master/screenshots/feature_graphic.png?raw=true)
+![Base64](https://github.com/kaungkhantjc/Base64/blob/master/screenshots/feature_graphic.jpg?raw=true)
 
 Base64 is an open source and clean Encoder/Decoder tool that supports 5 encodings.
 
