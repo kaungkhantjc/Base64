@@ -55,8 +55,10 @@ public class MainActivity extends Activity implements TextWatcher {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        EdgeToEdge.enable(this);
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
+        EdgeToEdge.applyPaddings(binding.getRoot());
 
         prefs = new Preferences(this);
         encoding = prefs.getEncoding();

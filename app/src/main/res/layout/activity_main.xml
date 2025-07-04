@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/background"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -21,7 +22,7 @@
             android:background="@color/edit_text"
             android:gravity="start"
             android:hint="@string/msg_enter_text"
-            android:inputType="textMultiLine"
+            android:inputType="textMultiLine|textNoSuggestions"
             android:padding="20dp" />
     </ScrollView>
 

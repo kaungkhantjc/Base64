@@ -2,5 +2,6 @@
 
     <style name="Theme.Base64" parent="android:style/Theme.Material.Light">
         <item name="android:colorPrimary">@color/background</item>
+        <item name="android:navigationBarColor">@color/background</item>
     </style>
 </resources>

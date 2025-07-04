@@ -10,8 +10,8 @@ android {
         applicationId = "com.jcoder.base64"
         minSdk = 14
         targetSdk = 36
-        versionCode = 3
-        versionName = "1.0.2"
+        versionCode = 4
+        versionName = "1.0.3"
 
         buildFeatures {
             viewBinding = true
